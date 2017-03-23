@@ -1,0 +1,9 @@
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\bin\Release\dataparser.exe.config
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\bin\Release\dataparser.exe
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\bin\Release\dataparser.pdb
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Release\dataparser.csprojResolveAssemblyReference.cache
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Release\dataparser.Form1.resources
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Release\dataparser.Properties.Resources.resources
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Release\dataparser.csproj.GenerateResource.Cache
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Release\dataparser.exe
+C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Release\dataparser.pdb
