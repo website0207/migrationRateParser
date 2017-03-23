@@ -7,3 +7,12 @@ C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Debug\dataparser.Prope
 C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Debug\dataparser.csproj.GenerateResource.Cache
 C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Debug\dataparser.exe
 C:\Users\wangz\Desktop\littleTY\dataparser\dataparser\obj\Debug\dataparser.pdb
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\bin\Debug\dataparser.exe.config
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\obj\Debug\dataparser.exe
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\obj\Debug\dataparser.pdb
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\bin\Debug\dataparser.exe
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\bin\Debug\dataparser.pdb
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\obj\Debug\dataparser.csprojResolveAssemblyReference.cache
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\obj\Debug\dataparser.Form1.resources
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\obj\Debug\dataparser.Properties.Resources.resources
+C:\Users\website\Documents\GitHubVisualStudio\migrationRateParser\dataparser\dataparser\obj\Debug\dataparser.csproj.GenerateResource.Cache
