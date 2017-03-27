@@ -23,6 +23,18 @@ namespace dataparser
         string[] filePaths = null;
         string[] fileNames = null;
 
+        private bool isInRange(double num)
+        {
+            num = Math.Abs(num);
+            if (num > 10 || num < 0.1)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
         private void parseData(string filePath, string fileName)
         {
             using (TextFieldParser parser = new TextFieldParser(filePath))
@@ -108,11 +120,20 @@ namespace dataparser
                 {
                     double n1 = Math.Abs(list[i]);
                     //double n2 = Math.Abs(list[i + 1]);
-                    if (max < n1)
+                    bool flag = false;
+                    if (i < 3 || i > list.Count - 4)
+                    {
+                        flag = true;
+                    }
+                    else if (i > 2 && i < list.Count - 3 && isInRange(n1 / list[i - 3]) && isInRange(n1 / list[i - 2]) && isInRange(n1 / list[i - 1]) && isInRange(n1 / list[i + 1]) && isInRange(n1 / list[i + 2]) && isInRange(n1 / list[i + 3]))
+                    {
+                        flag = true;
+                    }
+                    if (max < n1 && flag)
                     {
                         max = n1;
                     }
-                    if (min > n1)
+                    if (min > n1 && flag)
                     {
                         min = n1;
                     }
